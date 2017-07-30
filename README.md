@@ -18,6 +18,7 @@
  
  Don’t forget to define basic authorization (username and password).
  
- for more details see 
+ For more details see 
+ 
  [Using Tufin's REST API collections in Postman](https://download.tufin.com/support/downloads/Using_Tufin_REST_API_collections_in_Postman.pdf)
 
