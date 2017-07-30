@@ -1,5 +1,4 @@
-# postman
-  Postman collections for Tufin REST APIs
+# Postman collections for Tufin REST APIs
 
  This repository includes postman collections for Tufin REST APIs.
  You can import these collections to postman.
