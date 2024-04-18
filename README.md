@@ -20,5 +20,8 @@
  
  For more details see 
  
- [Using Tufin's REST API collections in Postman](https://download.tufin.com/support/downloads/Using_Tufin_REST_API_collections_in_Postman.pdf)
+ [Using Tufin's REST API collections in Postman](https://forum.tufin.com/support/kc/rest-api/Using_Tufins_REST_API_collections_in_Postman.pdf)
 
+#### Remark:
+Starting from R23-2 the postman collections were moved to our Knowledge Center.<br><br>
+See REST API Postman Collections in the ‘Quick Links’ section at the bottom of the [KC main page](https://forum.tufin.com/support/kc/latest/Content/Suite/home.htm)
